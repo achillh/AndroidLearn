@@ -1,1 +1,1 @@
-include ':app', ':library', ':framework'
+include ':app', ':library', ':framework', ':exoplayercore'
